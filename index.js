@@ -4,8 +4,8 @@ require("dotenv").config();
 
 const fileUploads = [
     {
-        path: "kakashi.jpg",
-        content: fs.readFileSync("./kakashi.jpg", {encoding: "base64"})
+        path: "sharingan.jpg",
+        content: fs.readFileSync("./sharingan.jpg", {encoding: "base64"})
     }
   ]
 
